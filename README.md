@@ -11,7 +11,7 @@ To meet the accesible standard you will see the following in the source code
 
 
 Below is a screenshot of the following Horieson website  
- [Three links to the MDN Web Docs appear under the text "Show Resources."](./assets/images/horiseon-screenshot.png)
+ ![picture](assets/images/picture5.png);
 
 Below is a link to the following Horiseon website
 https://stephenryan183.github.io/Refactoring-Horiseon-Website/
